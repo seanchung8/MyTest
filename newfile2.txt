@@ -1,1 +1,3 @@
 new file for Branch3
+added a second line to newfile2
+
